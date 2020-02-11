@@ -2,7 +2,7 @@
 Title: Application of Multilayer Neural Network with Backpropagation learning to predict Stock Exchange
 
 Project submitted in partial fulfillment of the requirements for the degree of Integrated M.Sc. in Applied Mathematics
-Under the esteemed guidance of Mr. Mukul Priyadarshi.
+Under the guidance of Mr. Mukul Priyadarshi.
 
 Centre for Applied Mathematics, Central University of Jharkhand, Brambe, Ranchi-835205, Jharkhand, India.
 
