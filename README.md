@@ -4,10 +4,7 @@ Title: Application of Multilayer Neural Network with Backpropagation learning to
 Project submitted in partial fulfillment of the requirements for the degree of Integrated M.Sc. in Applied Mathematics
 Under the esteemed guidance of Mr. Mukul Priyadarshi.
 
-Centre for Applied Mathematics
-Central University of Jharkhand
-Brambe, Ranchi-835205
-Jharkhand, India
+Centre for Applied Mathematics, Central University of Jharkhand, Brambe, Ranchi-835205, Jharkhand, India.
 
 Abstract: Artificial Neural Network is an efficient tool for non-parametric modelling of data where the output is a non-linear function of the inputs. Stock price prediction is one of the emerging field of the Neural Network forecasting area. Here we present a method to model the Bombay Stock Exchange (price index) data using ANN. Stock Market prediction depends on multiple known and unknown parameters.
 
